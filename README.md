@@ -13,7 +13,7 @@ Este repositorio contiene el módulo analítico desarrollado para el procesamien
 ## Estructura del repositorio
 
 ```text
-├── PipelineCRISP-DM.py            # Notebook principal de ejecución (Pipeline de Ciencia de Datos)
+├── PipelineCRISP-DM.py            # Archivo principal de ejecución (Pipeline de Ciencia de Datos)
 ├── .gitignore              # Archivo de exclusión de datos masivos y metadatos locales
 └── README.md               # Documentación técnica del proyecto
 ```
