@@ -14,7 +14,7 @@ Este repositorio contiene el módulo analítico desarrollado para el procesamien
 
 ```text
 ├── PipelineCRISP-DM.py            # Archivo principal de ejecución (Pipeline de Ciencia de Datos)
-├── .gitignore              # Archivo de exclusión de datos masivos y metadatos locales
+├── .gitignore              # Archivo de exclusión de datos masivos
 └── README.md               # Documentación técnica del proyecto
 ```
 
